@@ -1,6 +1,6 @@
 # T-Rex PoseNet
 
-Control T-Rex runner with your bod. Put together with help of [@aarora08](https://github.com/aarora08). Implemented on top of the demo provided by PoseNet tensorflow js. 
+Control T-Rex runner with your body. Put together with help of [@aarora08](https://github.com/aarora08). Implemented on top of the demo provided by PoseNet tensorflow js. 
 
 ![demo](assets/demo.gif)
 
@@ -9,7 +9,7 @@ Control T-Rex runner with your bod. Put together with help of [@aarora08](https:
 ### Setup:
 
 ```bash
-git clone git@github.com:Denisolt/trex-posenet.git
+git clone https://github.com/Denisolt/trex-posenet.git
 cd trex-posenet
 
 # run yarn
